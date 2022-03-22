@@ -1,0 +1,17 @@
+C:\Users\Marina\Documents\DIO\csvHelperRade\bin\Debug\net6.0\csvHelperRade.exe
+C:\Users\Marina\Documents\DIO\csvHelperRade\bin\Debug\net6.0\csvHelperRade.deps.json
+C:\Users\Marina\Documents\DIO\csvHelperRade\bin\Debug\net6.0\csvHelperRade.runtimeconfig.json
+C:\Users\Marina\Documents\DIO\csvHelperRade\bin\Debug\net6.0\csvHelperRade.dll
+C:\Users\Marina\Documents\DIO\csvHelperRade\bin\Debug\net6.0\csvHelperRade.pdb
+C:\Users\Marina\Documents\DIO\csvHelperRade\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.csproj.AssemblyReference.cache
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.AssemblyInfo.cs
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.csproj.CopyComplete
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.dll
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\refint\csvHelperRade.dll
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.pdb
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\csvHelperRade.genruntimeconfig.cache
+C:\Users\Marina\Documents\DIO\csvHelperRade\obj\Debug\net6.0\ref\csvHelperRade.dll
